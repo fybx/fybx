@@ -13,5 +13,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fybalaban&repo=processor&theme=highcontrast&show_owner=true" />
 </a>
 
-## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/master/stats.gif" width="20px"> cool stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fybalaban&show_icons=true&line_height=20&hide=contribs&count_private=true&include_all_commits=true&theme=highcontrast" />
+## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/master/stats.gif" width="20px"> cool widgets & stats 
+
+<a href="https://github.com/fybalaban">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fybalaban&show_icons=true&line_height=30&hide=stars,contribs&count_private=true&include_all_commits=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/fybalaban">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fybalaban&layout=compact&theme=highcontrast" />
+</a>

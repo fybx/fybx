@@ -15,9 +15,5 @@
 
 ## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/master/stats.gif" width="20px"> cool widgets & stats 
 
-<a href="https://github.com/fybalaban">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fybalaban&show_icons=true&line_height=30&hide=stars,contribs&count_private=true&include_all_commits=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/fybalaban">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fybalaban&layout=compact&theme=highcontrast" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=fybalaban&show_icons=true&line_height=30&hide=stars,contribs&count_private=true&include_all_commits=true&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fybalaban&layout=compact&theme=highcontrast" />

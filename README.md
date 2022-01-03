@@ -5,7 +5,7 @@
  - 📜 My primary interests are Web Development, Machine Learning, Neural Networks, and Mathematics.
  - 🔎 You can reach me on [<img src="https://cdn.svgporn.com/logos/twitter.svg" width="20px">](https://twitter.com/feritdegil "My Twitter Profile"), or on [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px">](https://www.linkedin.com/in/ferityigitbalaban/ "My LinkedIn Profile"). Oh, I also have an email option [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="20px">](mailto:ferityigitbalaban@gmail.com "Email me!") for the old-fashioned people!
 
-## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/main/sparkles.gif" width="20px"> personal achievements
+## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/main/sparkles.gif" width="35px"> personal achievements
 
  - [x] <img src="https://img.icons8.com/fluency/48/000000/smartphone-cpu.png" width="20px"/> Coded a CPU simulator using C# and WinForms
  - [x] <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="20px"/> Designed an interpreted language, created a dedicated lexer, parser and interpreter

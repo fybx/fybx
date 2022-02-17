@@ -9,7 +9,7 @@
 
  - [x] <img src="https://img.icons8.com/fluency/48/000000/smartphone-cpu.png" width="20px"/> Coded a CPU simulator using C# and WinForms
  - [x] <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="20px"/> Designed an interpreted language, created a dedicated lexer, parser and interpreter
- - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website](https:/balaban.software/ "My website") by only using HTML, CSS and Javascript, with no framework whatsoever
+ - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website](https://balaban.software/ "My website") by only using HTML, CSS and Javascript, with no framework whatsoever
  - [x] <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="20px"/> Participated in the WE'Boost Hackathon where we [built a website](https://github.com/fybalaban/weboost2022 "Repository of hackathon submission") with my team Abstract, and came in 4th
 
 ## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/master/pinned.gif" width="20px"> pinned repositories

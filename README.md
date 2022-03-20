@@ -14,7 +14,7 @@
 
 ## <img src="https://raw.githubusercontent.com/fybalaban/fybalaban/master/pinned.gif" width="20px"> pinned repositories
 <span>
-    <a href="https://github.com/fybalaban/sozluk"><img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=fybalaban&repo=sozluk&theme=slateorange&show_owner=true" /></a>
+    <a href="https://github.com/fybalaban/crypton"><img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=fybalaban&repo=crypton&theme=slateorange&show_owner=true" /></a>
     <a href="https://github.com/fybalaban/weboost2022"><img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=fybalaban&repo=weboost2022&theme=slateorange&show_owner=true" /></a>
 </span>
 

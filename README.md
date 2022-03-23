@@ -30,7 +30,7 @@
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/master/stats.gif" width="20px"> cool widgets & stats 
 
 <span>
-    <a href=""><img width="450px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fybx&show_icons=true&line_height=24&hide=contribs&count_private=true&include_all_commits=true&theme=slateorange"></a><a href="">
+    <a href="#"><img width="450px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fybx&show_icons=true&line_height=24&hide=contribs&count_private=true&include_all_commits=true&theme=slateorange"></a><a href="#">
     <img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fybx&layout=compact&theme=slateorange"></a>
  </span>
 

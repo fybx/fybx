@@ -12,7 +12,7 @@
  - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website][blog] by only using HTML, CSS and Javascript, with no framework whatsoever
  - [x] <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="20px"/> Participated in the WE'Boost Hackathon where we [built a website][weboost] with my team Abstract, and came in 4th
 
-## currently working on
+## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="20px" /> currently working on
 
  - A Linux device driver for UC-Logic Lapazz TWMNA62 graphics tablet
  - [crypton][crypton], a fully documented, tested .NET SDK wrapper library for common cryptographic applications

@@ -20,6 +20,7 @@
  - My [website][blog], which I aim to make it an online resume, portfolio, blog and wiki for my projects
  - Several projects to educate and encourage our university's engineering community
  - Trying to familiarize myself with [vim][vimrepo]
+ - Developing [okuldaki.com][okuldakicom] with my friends, [Berkay][berkaycubuk] and [Hasan][hruzgar]
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/master/pinned.gif" width="20px"> pinned repositories
 <span>
@@ -43,3 +44,6 @@
  [linkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
  [mail]: mailto:fyb@duck.com "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
+ [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
+ [berkaycubuk]: https://github.com/berkaycubuk "Berkay's GitHub profile"
+ [hruzgar]: https://github.com/hruzgar "Hasan's GitHub profile"

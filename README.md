@@ -39,7 +39,7 @@
  [scripts]: https://github.com/fybx/scripts
  [crypton]: https://github.com/fybx/crypton 
  [weboost]: https://github.com/fybx/weboost2022 "Repository of hackathon submission"
- [blog]: https://balaban.software/ "My personal website"
+ [blog]: https://fybx.dev "My personal website"
  [twitter]: https://twitter.com/feritdegil "My Twitter profile"
  [linkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
  [mail]: mailto:fyb@duck.com "Send me an email!"

@@ -42,7 +42,7 @@
  [blog]: https://fybx.dev "My personal website"
  [twitter]: https://twitter.com/feritdegil "My Twitter profile"
  [linkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
- [mail]: mailto:fyb@duck.com "Send me an email!"
+ [mail]: mailto:f@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
  [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
  [berkaycubuk]: https://github.com/berkaycubuk "Berkay's GitHub profile"

@@ -40,7 +40,7 @@
  [crypton]: https://github.com/fybx/crypton 
  [weboost]: https://github.com/fybx/weboost2022 "Repository of hackathon submission"
  [blog]: https://fybx.dev "My personal website"
- [twitter]: https://twitter.com/feritdegil "My Twitter profile"
+ [twitter]: https://twitter.com/fybxdev "My Twitter profile"
  [linkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
  [mail]: mailto:f@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"

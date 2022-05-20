@@ -22,19 +22,6 @@
  - Trying to familiarize myself with [vim][vimrepo]
  - Developing [okuldaki.com][okuldakicom] with my friends, [Berkay][berkaycubuk] and [Hasan][hruzgar]
 
-## <img src="https://raw.githubusercontent.com/fybx/fybx/master/pinned.gif" width="20px"> pinned repositories
-<span>
-    <a href="https://github.com/fybx/crypton"><img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=fybx&repo=crypton&theme=slateorange&show_owner=true" /></a>
-    <a href="https://github.com/fybx/weboost2022"><img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=fybx&repo=weboost2022&theme=slateorange&show_owner=true" /></a>
-</span>
-
-## <img src="https://raw.githubusercontent.com/fybx/fybx/master/stats.gif" width="20px"> cool widgets & stats 
-
-<span>
-    <a href="#-cool-widgets--stats"><img width="450px" height="150px" src="https://github-readme-stats.vercel.app/api?username=fybx&show_icons=true&line_height=24&hide=contribs&count_private=true&include_all_commits=true&theme=slateorange"></a><a href="#-cool-widgets--stats">
-    <img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fybx&layout=compact&theme=slateorange"></a>
- </span>
-
  [vimrepo]: https://github.com/vim/vim
  [scripts]: https://github.com/fybx/scripts
  [crypton]: https://github.com/fybx/crypton 

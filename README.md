@@ -3,7 +3,7 @@
  - 💻 I am studying for a Bachelor's degree majoring in Computer Engineering at [Uludag University][uni]
  - 🥼 I've developed cross-platform applications with .NET, and have a decent understanding of software development life cycle.
  - 📜 My primary interests are **systems development**, **computer architecture**, **programming languages** and **mathematics**.
- - 🪓 Leading the project team of [Uludağ Software Community][usc]; and Webraider, web ecol from [Anticverse][av].
+ - 🪓 Leading Webraider, web ecol from [Anticverse][av].
  - 🔎 You can reach me on [<img src="https://cdn.svgporn.com/logos/twitter.svg" width="20px">][twitter], or on [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px">][linkedin]. Oh, I also have an *self hosted* email option [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="20px">][mail] for the old-fashioned people!
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sparkles.gif" width="35px" height="35px"/> personal achievements

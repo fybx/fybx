@@ -4,7 +4,7 @@
  - 🥼 I've developed cross-platform applications with .NET, and have a decent understanding of software development life cycle.
  - 📜 My primary interests are **systems development**, **computer architecture**, **programming languages** and **mathematics**.
  - 🪓 Leading Webraider, web ecol from [Anticverse][av].
- - 🔎 You can reach me on [<img src="https://cdn.svgporn.com/logos/twitter.svg" width="20px">][twitter], or on [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px">][linkedin]. Oh, I also have an *self hosted* email option [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="20px">][mail] for the old-fashioned people!
+ - 🔎 You can reach me on [<img src="https://cdn.svgporn.com/logos/twitter.svg" width="20px">][twitter], or on [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px">][linkedin]. Oh, I also have an *self managed* email option [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="20px">][mail] for the old-fashioned people!
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sparkles.gif" width="35px" height="35px"/> personal achievements
 
@@ -29,7 +29,7 @@
  [blog]: https://fybx.dev "My personal website"
  [twitter]: https://twitter.com/fybxdev "My Twitter profile"
  [linkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
- [mail]: mailto:f@fybx.dev "Send me an email!"
+ [mail]: mailto:fybalaban@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
  [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
  [usc]: https://github.com/uludagdev 

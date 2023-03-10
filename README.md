@@ -15,7 +15,7 @@
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="25px" height="25px"/> currently working on
 
- - Contributing to open source projects by providing translations on [Weblate][https://hosted.weblate.org/user/fyb/]
+ - Contributing to open source projects by providing translations on [Weblate](https://hosted.weblate.org/user/fyb/)
  - Learning C for systems development, and using Python in everyday automation. You can check my scripts [here][scripts]
  - My [website][blog], which I aim to make it an online resume, portfolio, blog and wiki for my projects
  - Planning several projects and events for the computer engineering community of my university

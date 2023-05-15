@@ -21,7 +21,7 @@
  - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website][blog] by only using HTML, CSS and Javascript, with no framework whatsoever
  - [x] <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="20px"/> Participated in the WE'Boost Hackathon where we [built a website][weboost] with my team Abstract, and came in 4th
 
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="25px" height="25px"/> currently working on
+## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="35px" height="35px"/> currently working on
 
  - Contributing to open source projects by providing translations on [Weblate](https://hosted.weblate.org/user/fyb/)
  - Learning C for systems development, and using Python in everyday automation. You can check my scripts [here][scripts]

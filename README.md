@@ -1,10 +1,18 @@
+<h1 align="center">ferit yiğit balaban</h1>
+
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* github profile!
 
- - 💻 I am studying for a Bachelor's degree majoring in Computer Engineering at [Uludag University][uni]
- - 🥼 I've developed cross-platform applications with .NET, and have a decent understanding of software development life cycle.
- - 📜 My primary interests are **systems development**, **computer architecture**, **programming languages** and **mathematics**.
- - 🪓 Leading Webraider, web ecol from [Anticverse][av].
- - 🔎 You can reach me on [<img src="https://cdn.svgporn.com/logos/twitter.svg" width="20px">][twitter], or on [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px">][linkedin]. Oh, I also have an *self managed* email option [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="20px">][mail] for the old-fashioned people!
+🎓 Studying for a Bachelor's degree majoring in Computer Engineering at [Uludag University][uni].
+
+🪓 Founding Leader of Webraider, communication and IT Ecol from [Anticverse][av].
+
+⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu, (lit. Technology and Philosophy Community) a university community in my university.
+
+💻 Developed cross-platform & Windows desktop applications with .NET, and have a decent understanding of software development life cycle.
+- Worked with C#, Python, C, HTML, Sass/SCSS, JavaScript. 
+- Can utilize Git, Mattermost, ClickUp, GitHub Projects and several other tools and platforms for team coordination & project development.
+- Seasoned in Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma for image manipulation, raster and vectoral graphic design.
+- My primary interests and research domains are: **systems development**, **computer architecture**, **programming languages**, **telecommunication**, **information security**, **cryptography**.
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sparkles.gif" width="35px" height="35px"/> personal achievements
 

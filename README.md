@@ -32,17 +32,21 @@
  - Developing theme and peripheral controller, [modeset][ms] in C
  - Trying to familiarize myself with [vim][vimrepo]
 
+## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
+
+You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile, don't hesitate to DM me! For business or privacy related reasons, you can e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog].
+
  [vimrepo]: https://github.com/vim/vim
  [scripts]: https://github.com/fybx/scripts
- [crypton]: https://github.com/fybx/crypton 
+ [crypton]: https://github.com/fybx/crypton
  [weboost]: https://github.com/fybx/weboost2022 "Repository of hackathon submission"
  [blog]: https://fybx.dev "My personal website"
- [twitter]: https://twitter.com/fybxdev "My Twitter profile"
- [linkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
+ [tw]: https://twitter.com/fybalaban "My Twitter profile"
+ [ig]: https://instagram.com/ferityigitbalaban "My Instagram profile"
+ [in]: https://www.linkedin.com/in/fybx "My LinkedIn profile"
  [mail]: mailto:fybalaban@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
  [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
- [usc]: https://github.com/uludagdev 
  [av]: https://anticverse.com
  [saber]: https://github.com/adil192/saber
  [ms]: https://github.com/fybx/modeset

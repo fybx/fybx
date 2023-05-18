@@ -34,7 +34,7 @@
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
 
-You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile, don't hesitate to DM me! For business or privacy related reasons, you can e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban)
+You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile, don't hesitate to DM me! For business or privacy related reasons, you can e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban).
 
  [vimrepo]: https://github.com/vim/vim
  [scripts]: https://github.com/fybx/scripts

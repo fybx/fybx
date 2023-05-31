@@ -9,7 +9,7 @@
 ⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu, (lit. Technology and Philosophy Community) a university community in my university.
 
 💻 Developed cross-platform & Windows desktop applications with .NET, and have a decent understanding of software development life cycle.
-- Worked with C#, Python, C, HTML, Sass/SCSS, JavaScript. 
+- Working with C#, Python, C, HTML, Sass/SCSS, JavaScript, LaTeX. 
 - Can utilize Git, Mattermost, ClickUp, GitHub Projects and several other tools and platforms for team coordination & project development.
 - Seasoned in Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma for image manipulation, raster and vectoral graphic design.
 - My primary interests and research domains are: **systems development**, **computer architecture**, **programming languages**, **telecommunication**, **information security**, **cryptography**.

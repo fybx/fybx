@@ -1,6 +1,6 @@
 # todo: GitHub Profile like [fybx](https://github.com/fybx)
 
-Here, you can also read this tutorial in [Türkçe](tutorial.tr.md).
+Bu rehberi [Türkçe](tutorial.tr.md) olarak okuyabilirsiniz.
 
 ## <img src="https://media.tenor.com/7fw1qgKb4MkAAAAi/netherite-pickaxe-minecraft.gif" width=40px> Step 1: Gathering resources
 
@@ -11,7 +11,7 @@ Here, you can also read this tutorial in [Türkçe](tutorial.tr.md).
 
 ## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Piston_%28U%29_BE.gif/revision/latest?cb=20191015020837" height=60px> Step 2: Tweaking to your liking
 
-1. Start by changing your name, then move on to your current work. High school, university, or higher education? Communities you contribute to...
+1. Start by changing your name, then move on to your current work. High school, university, or higher education? Communities you contribute to... work experiences...
 2. Specify your technical capabilities, preferably list them.
 3. Talk about your interests and research domains, what gets you excited, what you want to improve, or what makes you want to change the world!
 4. Write about your favourite achievements!

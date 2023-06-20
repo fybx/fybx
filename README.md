@@ -36,6 +36,10 @@
 
 You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile, don't hesitate to DM me! For business or privacy related reasons, you can e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban).
 
+---
+
+Impressed by the aesthetics? Elevate your profile with this template. Just follow [this quick guide](tutorial.md) and give your GitHub profile a subtle yet cool touch.
+
  [vimrepo]: https://github.com/vim/vim
  [scripts]: https://github.com/fybx/scripts
  [crypton]: https://github.com/fybx/crypton
@@ -51,3 +55,5 @@ You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][i
  [saber]: https://github.com/adil192/saber
  [ms]: https://github.com/fybx/modeset
  [finamp]: https://github.com/jmshrv/finamp "The Finamp project"
+
+ 

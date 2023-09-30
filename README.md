@@ -2,16 +2,16 @@
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* github profile!
 
-🎓 Studying for a Bachelor's degree majoring in Computer Engineering at [Uludag University][uni].
+🎓 Studying for a Bachelor's in Computer Engineering at [Uludag University][uni].
 
-🪓 Founding Leader of Webraider, communication and IT Ecol from [Anticverse][av].
+🪓 Founder and leader of [Webraider][wb], a start-up developing turnkey IT solutions and websites.
 
-⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu, (lit. Technology and Philosophy Community) a university community in my university.
+⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), a university community in my university.
 
-💻 Developed cross-platform & Windows desktop applications with .NET, and have a decent understanding of software development life cycle.
+💻 Developed cross-platform & Windows desktop applications with .NET and understand software development life cycle well.
 - Working with C#, Python, C, Rust, HTML, Sass/SCSS, JavaScript, LaTeX. 
 - Can utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools and platforms for team coordination & project development.
-- Seasoned in Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Lightroom, Figma for image manipulation, raster and vectoral graphic design.
+- Seasoned in Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design.
 - My primary interests and research domains are: **systems development**, **computer architecture**, **programming languages**, **telecommunication**, **information security**, **cryptography**.
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sparkles.gif" width="35px" height="35px"/> personal achievements
@@ -24,17 +24,17 @@
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="35px" height="35px"/> currently working on
 
  - Contributing to open source projects by providing translations on [Weblate](https://hosted.weblate.org/user/fyb/)
- - Learning C for systems development, and using Python in everyday automation. You can check my scripts [here][scripts]
- - My [website][blog], which I aim to make it an online resume, portfolio, blog and wiki for my projects
+ - Learning C for systems development and using Python in everyday automation. You can check my scripts [here][scripts]
+ - My [website][blog], which I aim to make an online resume, portfolio, blog and wiki for my projects
  - Planning several projects and events for the computer engineering community of my university
- - Providing Turkish translation to [Saber][saber], an awesome free and open source note taking app with palm rejection
- - Translated [Finamp][finamp] to Turkish, a Jellyfin music player that I love and use.
+ - Providing Turkish translation to [Saber][saber], an awesome free and open-source note-taking app with palm rejection
+ - Translated [Finamp][finamp] to Turkish, a Jellyfin music player I love and use.
  - Developing theme and peripheral controller, [modeset][ms] in C
  - Trying to familiarize myself with [vim][vimrepo]
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
 
-You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile, don't hesitate to DM me! For business or privacy related reasons, you can e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban).
+You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile. Don't hesitate to DM me! For business or privacy-related reasons, e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban).
 
 ---
 
@@ -51,7 +51,7 @@ Impressed by the aesthetics? Elevate your profile with this template. Just follo
  [mail]: mailto:fybalaban@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
  [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
- [av]: https://anticverse.com
+ [wb]: https://webraider.dev
  [saber]: https://github.com/adil192/saber
  [ms]: https://github.com/fybx/modeset
  [finamp]: https://github.com/jmshrv/finamp "The Finamp project"

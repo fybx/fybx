@@ -4,9 +4,9 @@
 
 🎓 Studying for a Bachelor's in Computer Engineering at [Uludag University][uni].
 
-🪓 Founder and leader of [Webraider][wb], a start-up developing turnkey IT solutions and websites.
+🪓 Founder and leader of [Arbeit Studio][as], a start-up developing turnkey IT solutions and websites.
 
-⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), a university community in my university.
+⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), a university community at [Uludag University][uni].
 
 💻 Developed cross-platform & Windows desktop applications with .NET and understand software development life cycle well.
 - Working with C#, Python, C, Rust, HTML, Sass/SCSS, JavaScript, LaTeX. 
@@ -51,7 +51,7 @@ Impressed by the aesthetics? Elevate your profile with this template. Just follo
  [mail]: mailto:fybalaban@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
  [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
- [wb]: https://webraider.dev
+ [as]: https://arbeit.studio
  [saber]: https://github.com/adil192/saber
  [ms]: https://github.com/fybx/modeset
  [finamp]: https://github.com/jmshrv/finamp "The Finamp project"

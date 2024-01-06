@@ -18,7 +18,7 @@
 
  - [x] <img src="https://img.icons8.com/fluency/48/000000/smartphone-cpu.png" width="20px"/> Coded a CPU simulator using C# and WinForms
  - [x] <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="20px"/> Designed an interpreted language, created a dedicated lexer, parser and interpreter
- - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website][blog] by only using HTML, CSS and Javascript, with no framework whatsoever
+ - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website][llwebsite] by only using HTML, CSS and Javascript, with no framework whatsoever
  - [x] <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="20px"/> Participated in the WE'Boost Hackathon where we [built a website][weboost] with my team Abstract, and came in 4th
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="35px" height="35px"/> currently working on
@@ -34,7 +34,7 @@
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
 
-You can directly reach me from my [Twitter][tw], [Instagram][ig] or [LinkedIn][in] profile. Don't hesitate to DM me! For business or privacy-related reasons, e-mail me at [fybalaban@fybx.dev][mail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban).
+You can directly reach me from my [Twitter/X][llx], [Instagram][llinstagram] or [LinkedIn][lllinkedin] profile. Don't hesitate to DM me! For business or privacy-related reasons, e-mail me at [fyb@fybx.dev][llmail]. My PGP key (`244CB7EB`) is available on [my website][blog]. Find me on other platforms with [Bento](https://bento.me/balaban).
 
 ---
 
@@ -44,11 +44,6 @@ Impressed by the aesthetics? Elevate your profile with this template. Just follo
  [scripts]: https://github.com/fybx/scripts
  [crypton]: https://github.com/fybx/crypton
  [weboost]: https://github.com/fybx/weboost2022 "Repository of hackathon submission"
- [blog]: https://fybx.dev "My personal website"
- [tw]: https://twitter.com/fybalaban "My Twitter profile"
- [ig]: https://instagram.com/ferityigitbalaban "My Instagram profile"
- [in]: https://www.linkedin.com/in/fybx "My LinkedIn profile"
- [mail]: mailto:fybalaban@fybx.dev "Send me an email!"
  [uni]: http://uludag.edu.tr "Website of my university"
  [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
  [as]: https://arbeit.studio
@@ -56,4 +51,9 @@ Impressed by the aesthetics? Elevate your profile with this template. Just follo
  [ms]: https://github.com/fybx/modeset
  [finamp]: https://github.com/jmshrv/finamp "The Finamp project"
 
- 
+[llmail]: mailto:fyb@fybx.dev "Send me an email!"
+[llwebsite]: https://fybx.dev "My personal website"
+[llbento]: https://bento.me/balaban
+[llx]: https://x.com/fybalaban "My Twitter/X profile"
+[lllinkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
+[llinstagram]: https://instagram.com/ferityigitbalaban "My Instagram profile"

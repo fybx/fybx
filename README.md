@@ -25,7 +25,7 @@
 
  - Contributing to open source projects by providing translations on [Weblate](https://hosted.weblate.org/user/fyb/)
  - Learning C for systems development and using Python in everyday automation. You can check my scripts [here][scripts]
- - My [website][blog], which I aim to make an online resume, portfolio, blog and wiki for my projects
+ - My [website][llwebsite], which I aim to make an online resume, portfolio, blog and wiki for my projects
  - Planning several projects and events for the computer engineering community of my university
  - Providing Turkish translation to [Saber][saber], an awesome free and open-source note-taking app with palm rejection
  - Translated [Finamp][finamp] to Turkish, a Jellyfin music player I love and use.

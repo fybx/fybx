@@ -16,6 +16,8 @@ Programming languages are nothing but tools, therefore I have varying degrees of
 
 I can efficiently utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools for team coordination, project management & business analysis. I'm experienced with Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design. I prefer Figma for most of my planning and design workflows because I've completely transitioned from Windows to [Arch Linux](https://archlinux.org).
 
+I've built and/or managed [React](https://react.dev/), [Next.js](https://nextjs.org/), [Flutter](https://flutter.dev/), [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) projects.
+
 My primary interests and research domains are: telecommunications, programming languages concept, processor design, information security, information systems design and DevOps.
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect

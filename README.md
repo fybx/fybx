@@ -1,36 +1,22 @@
-<h1 align="center">ferit yiğit balaban</h1>
+## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* GitHub profile!
 
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* github profile!
+- 🎓 studying for a Bachelor's in Computer Engineering at [Uludag University][uni].
+- 🪓 the founder of [arbeit studio][as], a start-up developing turnkey IT solutions and websites.
+- ⚙️ the founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), at my university.
 
-🎓 Studying for a Bachelor's in Computer Engineering at [Uludag University][uni].
+Programming languages are nothing but tools, therefore I have varying degrees of expertise in different languages. Here's a few of the ones I've used:
 
-🪓 Founder and leader of [Arbeit Studio][as], a start-up developing turnkey IT solutions and websites.
+- C#: Windows desktop applications with WinForms. A fully-featured [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator), an [Assembly](https://en.wikipedia.org/wiki/Assembly_language)-inspired language parser, a [database](https://en.wikipedia.org/wiki/Database), a personal library manager, an experimental [Windows Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe) replacement, a [Windows Shell](https://en.wikipedia.org/wiki/Windows_shell) replacement, an implementation of the [Vole machine](http://wyrd.hood.edu/~wcrum/it510/documents/VoleMachineLanguage.pdf) with code editor, in-RAM viewer, and many more.
+- Python: a complete [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) [processor simulator](https://github.com/fybx/risc-mini) with an [instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) inspired by the [RISC-V](https://github.com/riscv/riscv-isa-manual/releases/tag/Ratified-IMAFDQC), a very easy to integrate [argument parser package](https://github.com/fybx/crispy) for CLI apps, a [Selenium](https://www.selenium.dev/) based [WhatsApp](https://www.whatsapp.com/) bulk messager, and many undocumented scripts to automate my workflows.
+- C: basic [data structures](https://en.wikipedia.org/wiki/Data_structure), a [fan controller](https://github.com/fybx/rpi-fan-control) implementation for [Raspberry Pi](https://www.raspberrypi.org/) over [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output).
+- Sass/SCSS: many online and offline websites, and a [framework](https://github.com/arbeitstudio/genesis) under [arbeit studio][as].
+- HTML: I honestly love writing pure HTML instead of popular front-end frameworks.
+- JavaScript and TypeScript: [ukeysuite](https://github.com/fybx/ukeysuite), a package for scraping and managing the course materials sharing platform of my university, [Uludag UKEY](https://ukey.uludag.edu.tr/).
+- LaTeX: math notes, reports, letters, ... :^)
 
-⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), a university community at [Uludag University][uni].
+I can efficiently utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools for team coordination, project management & business analysis. I'm experienced with Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design. I prefer Figma for most of my planning and design workflows because I've completely transitioned from Windows to [Arch Linux](https://archlinux.org).
 
-💻 Developed cross-platform & Windows desktop applications with .NET and understand software development life cycle well.
-- Working with C#, Python, C, Rust, HTML, Sass/SCSS, JavaScript, LaTeX. 
-- Can utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools and platforms for team coordination & project development.
-- Seasoned in Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design.
-- My primary interests and research domains are: **systems development**, **computer architecture**, **programming languages**, **telecommunication**, **information security**, **cryptography**.
-
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sparkles.gif" width="35px" height="35px"/> personal achievements
-
- - [x] <img src="https://img.icons8.com/fluency/48/000000/smartphone-cpu.png" width="20px"/> Coded a CPU simulator using C# and WinForms
- - [x] <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="20px"/> Designed an interpreted language, created a dedicated lexer, parser and interpreter
- - [x] <img src="https://img.icons8.com/fluency/48/000000/web-design.png" width="20px"/> Created [my personal website][llwebsite] by only using HTML, CSS and Javascript, with no framework whatsoever
- - [x] <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="20px"/> Participated in the WE'Boost Hackathon where we [built a website][weboost] with my team Abstract, and came in 4th
-
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/sprout.gif" width="35px" height="35px"/> currently working on
-
- - Contributing to open source projects by providing translations on [Weblate](https://hosted.weblate.org/user/fyb/)
- - Learning C for systems development and using Python in everyday automation. You can check my scripts [here][scripts]
- - My [website][llwebsite], which I aim to make an online resume, portfolio, blog and wiki for my projects
- - Planning several projects and events for the computer engineering community of my university
- - Providing Turkish translation to [Saber][saber], an awesome free and open-source note-taking app with palm rejection
- - Translated [Finamp][finamp] to Turkish, a Jellyfin music player I love and use.
- - Developing theme and peripheral controller, [modeset][ms] in C
- - Trying to familiarize myself with [vim][vimrepo]
+My primary interests and research domains are: telecommunications, programming languages concept, processor design, information security, information systems design and DevOps.
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
 
@@ -40,16 +26,8 @@ You can directly reach me from my [Twitter/X][llx], [Instagram][llinstagram] or 
 
 Impressed by the aesthetics? Elevate your profile with this template. Just follow [this quick guide](tutorial.md) and give your GitHub profile a subtle yet cool touch.
 
- [vimrepo]: https://github.com/vim/vim
- [scripts]: https://github.com/fybx/scripts
- [crypton]: https://github.com/fybx/crypton
- [weboost]: https://github.com/fybx/weboost2022 "Repository of hackathon submission"
- [uni]: http://uludag.edu.tr "Website of my university"
- [okuldakicom]: https://okuldaki.com "okuldaki.com Homepage"
- [as]: https://arbeit.studio
- [saber]: https://github.com/adil192/saber
- [ms]: https://github.com/fybx/modeset
- [finamp]: https://github.com/jmshrv/finamp "The Finamp project"
+[uni]: http://uludag.edu.tr "Website of my university"
+[as]: https://arbeit.studio
 
 [llmail]: mailto:fyb@fybx.dev "Send me an email!"
 [llwebsite]: https://fybx.dev "My personal website"

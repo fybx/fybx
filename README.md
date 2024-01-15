@@ -11,7 +11,7 @@ Programming languages are nothing but tools, therefore I have varying degrees of
 - C: basic [data structures](https://en.wikipedia.org/wiki/Data_structure), a [fan controller](https://github.com/fybx/rpi-fan-control) implementation for [Raspberry Pi](https://www.raspberrypi.org/) over [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output).
 - Sass/SCSS: many online and offline websites, and a [framework](https://github.com/arbeitstudio/genesis) under [arbeit studio][as].
 - HTML: I honestly love writing pure HTML instead of popular front-end frameworks.
-- JavaScript and TypeScript: [ukeysuite](https://github.com/fybx/ukeysuite), a package for scraping and managing the course materials sharing platform of my university, [Uludag UKEY](https://ukey.uludag.edu.tr/).
+- JavaScript and TypeScript: [ukeysuite](https://github.com/fybx/ukeysuite), a package for scraping and managing the course materials sharing platform of my university, [Uludag UKEY](https://ukey.uludag.edu.tr/); and also [the genesis framework](https://github.com/arbeitstudio/genesis).
 - LaTeX: math notes, reports, letters, ... :^)
 
 I can efficiently utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools for team coordination, project management & business analysis. I'm experienced with Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design. I prefer Figma for most of my planning and design workflows because I've completely transitioned from Windows to [Arch Linux](https://archlinux.org).

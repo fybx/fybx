@@ -1,8 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* GitHub profile!
 
-- 🎓 studying for a Bachelor's in Computer Engineering at [Uludag University][uni].
-- 🪓 the founder of [arbeit studio][as], a start-up developing turnkey IT solutions and websites.
-- ⚙️ the founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), at my university.
+> [!important]
+> I am transitioning to my self-hosted, free and open-source Gitea instance at https://git.fybx.dev/
+> This GitHub account will serve as a mirror.
+
+- Bachelor's in Computer Engineering at [Uludag University][uni]. Expected graduation June 2025.
+- founder of [arbeit studio][as], a start-up developing turnkey IT solutions and websites.
+- founder of Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), at my university.
 
 Programming languages are nothing but tools, therefore I have varying degrees of expertise in different languages. Here's a few of the ones I've used:
 
@@ -23,10 +27,6 @@ My primary interests and research domains are: telecommunications, programming l
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
 
 You can directly reach me from my [Twitter/X][llx], [Instagram][llinstagram] or [LinkedIn][lllinkedin] profile. Don't hesitate to DM me! For business or privacy-related reasons, e-mail me at [fyb@fybx.dev][llmail]. My PGP key (`244CB7EB`) is available on [my website][llwebsite]. Find me on other platforms with [Bento](https://bento.me/balaban).
-
----
-
-Impressed by the aesthetics? Elevate your profile with this template. Just follow [this quick guide](tutorial.md) and give your GitHub profile a subtle yet cool touch.
 
 [uni]: http://uludag.edu.tr "Website of my university"
 [as]: https://arbeit.studio

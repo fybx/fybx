@@ -6,7 +6,11 @@
 
 - Bachelor's in Computer Engineering at [Uludag University][uni]. Expected graduation June 2025.
 - founder of [arbeit studio][as], a start-up developing turnkey IT solutions and websites.
-- founder of Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), at my university.
+- interned at Turkiye's leading companies, Turkcell and TOFAS
+
+**Main areas of focus:** software development, system architecture & design, project management
+
+**Academic research domains:** programming language theory, systems programming, cryptography, telecommunications
 
 Programming languages are nothing but tools, therefore I have varying degrees of expertise in different languages. Here's a few of the ones I've used:
 
@@ -20,9 +24,7 @@ Programming languages are nothing but tools, therefore I have varying degrees of
 
 I can efficiently utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools for team coordination, project management & business analysis. I'm experienced with Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design. I prefer Figma for most of my planning and design workflows because I've completely transitioned from Windows to [Arch Linux](https://archlinux.org).
 
-I've built and/or managed [React](https://react.dev/), [Next.js](https://nextjs.org/), [Flutter](https://flutter.dev/), [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) projects.
-
-My primary interests and research domains are: telecommunications, programming languages concept, processor design, information security, information systems design and DevOps.
+I've built and/or managed [React](https://react.dev/), [Next.js](https://nextjs.org/), [Svelte](https://svelte.dev/), [Flutter](https://flutter.dev/), [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) projects.
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
 

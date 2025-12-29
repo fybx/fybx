@@ -1,16 +1,22 @@
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* GitHub profile!
+<p align="center">
+  <b>⚘⚘⚘ welcome to my *unique* GitHub profile! ⚘⚘⚘</b>
+</p>
 
 > [!important]
-> I am transitioning to my self-hosted, free and open-source Gitea instance at https://git.fybx.dev/
-> This GitHub account will serve as a mirror.
+> Nowadays I'm using my self-hosted, free and open-source Gitea instance at https://git.yigid.dev/
+> This GitHub account serves as a mirror.
 
-- Bachelor's in Computer Engineering at [Uludag University][uni]. Expected graduation June 2025.
-- founder of [arbeit studio][as], a start-up developing turnkey IT solutions and websites.
-- interned at Turkiye's leading companies, Turkcell and TOFAS
+- Graduated with the highest GPA of 2021 intake in BSc CompEng from [Uludag University][uni] in Sept'25.
+- Founded of a startup-turned-nonprofit collective: [ArbeitCollective][ac].
+- Hired by [Turkcell][llturkcell], Turkiye's leading telecommunications firm after graduating. I'm an associate researcher at the Network Assurance & R&D department. 
 
-**Main areas of focus:** software development, system architecture & design, project management
+⚘ **Main areas of focus:** system architecture & design, software development, and project management
 
-**Academic research domains:** programming language theory, systems programming, cryptography, telecommunications
+⚘ **Academic research domains:** cryptography, telecommunications, software-defined networks, and signal intelligence
+
+<p align="center">
+  ⚘⚘⚘
+</p>
 
 Programming languages are nothing but tools, therefore I have varying degrees of expertise in different languages. Here's a few of the ones I've used:
 
@@ -22,20 +28,22 @@ Programming languages are nothing but tools, therefore I have varying degrees of
 - JavaScript and TypeScript: [ukeysuite](https://github.com/fybx/ukeysuite), a package for scraping and managing the course materials sharing platform of my university, [Uludag UKEY](https://ukey.uludag.edu.tr/); and also [the genesis framework](https://github.com/arbeitstudio/genesis).
 - LaTeX: math notes, reports, letters, ... :^)
 
-I can efficiently utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools for team coordination, project management & business analysis. I'm experienced with Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design. I prefer Figma for most of my planning and design workflows because I've completely transitioned from Windows to [Arch Linux](https://archlinux.org).
+I can efficiently utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools for team coordination, project management & business analysis. I'm experienced with Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design.
 
 I've built and/or managed [React](https://react.dev/), [Next.js](https://nextjs.org/), [Svelte](https://svelte.dev/), [Flutter](https://flutter.dev/), [WinForms](https://en.wikipedia.org/wiki/Windows_Forms) projects.
 
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
+<p align="center">
+  <b>⚘⚘⚘ let's connect ⚘⚘⚘</b>
+</p>
 
-You can directly reach me from my [Twitter/X][llx], [Instagram][llinstagram] or [LinkedIn][lllinkedin] profile. Don't hesitate to DM me! For business or privacy-related reasons, e-mail me at [fyb@fybx.dev][llmail]. My PGP key (`244CB7EB`) is available on [my website][llwebsite]. Find me on other platforms with [Bento](https://bento.me/balaban).
+I prefer emails over everything: `balaban [at] yigid [dot] dev`
+
+[X/Twitter][llx] ⚘ [LinkedIn][lllinkedin] ⚘ [Instagram][llinstagram]
 
 [uni]: http://uludag.edu.tr "Website of my university"
-[as]: https://arbeit.studio
+[ac]: https://github.com/arbeitcollective
 
-[llmail]: mailto:fyb@fybx.dev "Send me an email!"
-[llwebsite]: https://fybx.dev "My personal website"
-[llbento]: https://bento.me/balaban
 [llx]: https://x.com/fybalaban "My Twitter/X profile"
 [lllinkedin]: https://linkedin.com/in/fybx "My LinkedIn profile"
 [llinstagram]: https://instagram.com/ferityigitbalaban "My Instagram profile"
+[llturkcell]: https://www.turkcell.com.tr
